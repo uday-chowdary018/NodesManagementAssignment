@@ -1,0 +1,14 @@
+Node ID,Node name,Description,Memo,Node type,Parent node group name,Parent node group Id,Parent node text
+T300_001,Node 1,Sample text,Sample text,transponder,Subgroup NE_1,Sample text1,Sample text
+T300_002,Node 2,Sample text,Sample text,transponder,Subgroup NE_2,Sample text2,Sample text
+T300_003,Node 3,Sample text,Sample text,transponder,Subgroup NE_3,Sample text3,Sample text
+T300_004,Node 4,Sample text,Sample text,transponder,Subgroup NE_4,Sample text4,Sample text
+T300_005,Node 5,Sample text,Sample text,transponder,Subgroup NE_5,Sample text5,Sample text
+T300_006,Node 6,Sample text,Sample text,transponder,Subgroup NE_6,Sample text6,Sample text
+T300_007,Node 7,Sample text,Sample text,transponder,Subgroup NE_7,Sample text7,Sample text
+T300_008,Node 8,Sample text,Sample text,transponder,Subgroup NE_8,Sample text8,Sample text
+T300_009,Node 9,Sample text,Sample text,transponder,Subgroup NE_9,Sample text9,Sample text
+T300_010,,Sample text,Sample text,transponder,Subgroup NE_10,Sample text10,Sample text
+T300_011,Node 11,Sample text,,transponder,Subgroup NE_11,Sample text11,Sample text
+T300_012,Node 12,Sample text,Sample text,transponder,Subgroup NE_12,Sample text12,Sample text
+T300_013,Node 13,Sample text,Sample text,transponder,Subgroup NE_13,Sample text13,Sample text
