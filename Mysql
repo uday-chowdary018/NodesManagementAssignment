@@ -1,0 +1,15 @@
+create database Nodes  //create database
+use Nodes     // use database
+
+create table nodes(                      //create table 
+    node_id varchar(100) primary key,
+    node_name varchar(200) not null,
+    description varchar(500),
+    memo varchar(500),
+    node_type varchar(100),
+    parent_node_group_name varchar(200),
+    parent_node_group_id varchar(100),
+    parent_node_text varchar(500)
+);
+
+select *from nodes;
